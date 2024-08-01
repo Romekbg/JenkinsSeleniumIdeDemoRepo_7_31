@@ -9,31 +9,31 @@ pipeline {
                 
             }
         }
-        stage('Set up .Net Core') {
-            // install dot net
+        // stage('Set up .Net Core') {
+        //     // install dot net
 
-            steps {
+        //     steps {
                 
-            }
-        }
-        stage('Restore dependencies') {
-            // install dependencies
-            steps {
+        //     }
+        // }
+        // stage('Restore dependencies') {
+        //     // install dependencies
+        //     steps {
                 
-            }
-        }
-        stage('Build') {
-            // build
-            steps {
+        //     }
+        // }
+        // stage('Build') {
+        //     // build
+        //     steps {
                 
-            }
-        }
-        stage('Run tests') {
-            // run tests
-            steps {
+        //     }
+        // }
+        // stage('Run tests') {
+        //     // run tests
+        //     steps {
                 
-            }
-        }
+        //     }
+        //}
 
     }
 }
